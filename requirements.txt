@@ -24,7 +24,7 @@ requests==2.31.0
     # via -r requirements.in
 six==1.16.0
     # via python-dateutil
-tqdm==4.66.2
+tqdm==4.66.3
     # via -r requirements.in
 tzdata==2024.1
     # via pandas
